@@ -12,6 +12,7 @@
 
 
 # Build on Linux
+[![Build-Linux](https://github.com/IndhujaB/M3_Wiper_System/actions/workflows/Build%20on%20linux.yml/badge.svg)](https://github.com/IndhujaB/M3_Wiper_System/actions/workflows/Build%20on%20linux.yml)
 
 
 # Git Inspector
