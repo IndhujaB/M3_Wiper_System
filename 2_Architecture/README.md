@@ -1,3 +1,4 @@
 ## FLOW CHART:
-![FLOW CHART](https://user-images.githubusercontent.com/101382503/168255680-ccde1ba3-f6f2-47f2-8154-76928436aaf0.png)
+![FLOW CHART1](https://user-images.githubusercontent.com/101382503/168256096-d762e241-1aeb-4457-b26b-aad672de566f.png)
+
 
