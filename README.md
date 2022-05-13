@@ -24,5 +24,6 @@
 [![Git Inspector](https://github.com/IndhujaB/M3_Wiper_System/actions/workflows/Git%20inspector.yml/badge.svg)](https://github.com/IndhujaB/M3_Wiper_System/actions/workflows/Git%20inspector.yml)
 
 # Unit Testing
+[![Unit Testing](https://github.com/IndhujaB/M3_Wiper_System/actions/workflows/unit%20testing.yml/badge.svg)](https://github.com/IndhujaB/M3_Wiper_System/actions/workflows/unit%20testing.yml)
 
 
