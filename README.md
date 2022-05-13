@@ -17,6 +17,7 @@
 
 
 # Git Inspector
+[![Git Inspector](https://github.com/IndhujaB/M3_Wiper_System/actions/workflows/Git%20inspector.yml/badge.svg)](https://github.com/IndhujaB/M3_Wiper_System/actions/workflows/Git%20inspector.yml)
 
 
 # Valgrind
