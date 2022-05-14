@@ -8,6 +8,10 @@
 ## BLOCK DIAGRAM:
 ![BLOCK DIAGRAM](https://user-images.githubusercontent.com/101382503/168414580-2b44fce7-873f-472d-b671-f1f7328ffe7f.png)
 
+## CIRCUITAL DIAGRAM:
+![Circuital diagram](https://user-images.githubusercontent.com/101382503/168415520-7c215147-74d6-4171-8011-6a5cbb503ece.jpg)
+
+
 
 
 
