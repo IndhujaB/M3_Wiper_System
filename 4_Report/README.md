@@ -68,6 +68,10 @@ STM32CubeProgrammer (STM32CubeProg) is an all-in-one multi-OS software tool for 
 
 * It improves by the automatic cleaning wiper system.
 
+## THREATS:
+
+* This system improves more to upgrade the wiper.
+
 
 ## HIGH LEVEL REQUIREMENTS:
 
