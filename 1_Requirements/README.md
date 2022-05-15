@@ -56,6 +56,22 @@ STM32CubeProgrammer (STM32CubeProg) is an all-in-one multi-OS software tool for 
 
 ## SWOT ANALYSIS:
 
+## STRENGTH:
+
+* The strength of thw wiper system is cleans the rain water and dust cleanly.
+
+## WEAKNESS:
+
+* It does not cleans the hard part of the dust in glass like oil and sauce.
+
+## OPPORTUNITY:
+
+* It improves by the automatic cleaning wiper system.
+
+## THREATS:
+
+* This system improves more to upgrade the wiper.
+
 
 ## HIGH LEVEL REQUIREMENTS:
 
